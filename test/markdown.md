@@ -4,6 +4,8 @@ sort: 1
 
 # Markdown Elements
 
+这是自带的文件，还未进行修改，目前进度是：找到存储个人博客的正确文件夹，同时需要调整主页。
+
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
 
 There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.

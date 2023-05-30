@@ -1,6 +1,8 @@
 title: zhyp's blog
+email: namezhyp@qq.com
 description: 这是一个测试性质的博客
 
+markdown:kramdown
 theme: null
 
 # debug:

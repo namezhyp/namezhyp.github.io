@@ -1,7 +1,6 @@
-#这个文件应该被隐藏  jekyll-rtd-theme
-
-![CI](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
-![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
+#这是一个测试博客 
+这个文件应该被隐藏 
+ jekyll-rtd-theme
 
 Just another documentation theme compatible with GitHub Pages
 

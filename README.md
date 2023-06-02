@@ -1,6 +1,5 @@
-#这是一个测试博客 
-这个文件应该被隐藏 
- jekyll-rtd-theme
+-#这是一个测试博客 
+-这个文件应该被隐藏  jekyll-rtd-theme
 
 Just another documentation theme compatible with GitHub Pages
 
